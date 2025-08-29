@@ -23,26 +23,26 @@
 
 #### 💱 [DeFi Stablecoin](https://github.com/FaheezAdekunle/DeFi-Stablecoin-f25)
 A stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD..  
-✔ Implements **minting, burning, and Health Factor**  
-✔ Pegged to USD with liquidation mechanisms  
-✔ Focused on **security, stability, and gas efficiency**
+- Implements **minting, burning, and Health Factor**  
+- Pegged to USD with liquidation mechanisms  
+- Focused on **security, stability, and gas efficiency**
 
 ---
 
 #### 🗳️ [Decentralized Voting](https://github.com/FaheezAdekunle/Foundry-DAO)
 A DAO-style governance system where token holders can create and vote on proposals.  
-✔ ERC20 token-based voting power  
-✔ Full proposal lifecycle & execution  
-✔ Timelock concept that gives users time to reflect on a proposal before it is executed  
-✔ **Tested** with Foundry
+- ERC20 token-based voting power  
+- Full proposal lifecycle & execution  
+- Timelock concept that gives users time to reflect on a proposal before it is executed  
+- **Tested** with Foundry
 
 ---
 
 #### 🔄 [CCIP Rebase Token](https://github.com/FaheezAdekunle/ccip-rebase-token)
 A cross-chain rebase token that integrates Chainlink CCIP to enable users to bridge their tokens cross-chain.  
-✔ Protocol rewards early users  
-✔ Cross-chain messaging with Chainlink CCIP  
-✔ Demonstrates advanced **tokenomics and interoperability**
+- Protocol rewards early users  
+- Cross-chain messaging with Chainlink CCIP  
+- Demonstrates advanced **tokenomics and interoperability**
 
 ---
 
