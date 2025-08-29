@@ -49,7 +49,14 @@ A cross-chain rebase token that integrates Chainlink CCIP to enable users to bri
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FaheezAdekunle&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaheezAdekunle&layout=compact&theme=tokyonight" alt="languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaheezAdekunle&layout=compact&theme=tokyonight&exclude_repo=repo1,repo2" alt="languages" height="160"/>
+</p>
+
+<p align="center">
+  <sub>
+    ⚠️ <em>Note:</em> GitHub’s language stats may list auxiliary languages (e.g., Go, JS) from dependencies or build tools.  
+    My primary focus is <strong>Solidity & Secure smart contract development</strong>.
+  </sub>
 </p>
 
 ---
